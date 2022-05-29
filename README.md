@@ -1,6 +1,6 @@
-# grafimedia
+# BookList Mobile App
 
-Aplikasi perpustakaan menggunakan framework flutter
+Aplikasi daftar buku menggunakan framework flutter
 
 ## Getting Started
 
